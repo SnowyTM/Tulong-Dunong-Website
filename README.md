@@ -1,6 +1,7 @@
 # Tulong-Dunong-Website
 Puyat is life
 
+Do pull requests pls. That's the reason why they exist..
 Don't commit anything dumb
 Ask in GC first before making a major push
 Make a backup for the backup in case if things go haywire.
