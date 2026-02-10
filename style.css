@@ -33,9 +33,15 @@ body {
 /* Hidden and Show */
 .hidden {
     opacity: 0;
+    filter: blur(5px);
+    transform: translateX(-50vw);
+    transition: all 1s;
 }
 .show {
     opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+    transition: all 1s;
 }
 
 /* Trail */
@@ -106,6 +112,7 @@ body {
 /* Banner */
 .banner {
     width: 100vw;
+    filter: blur(2px)
 }
 
 /* Body */
