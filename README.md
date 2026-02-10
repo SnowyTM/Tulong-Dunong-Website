@@ -1,11 +1,11 @@
 # Tulong-Dunong-Website
 Puyat is life
 
-Do pull requests pls. That's the reason why they exist..
-Don't commit anything dumb
-Ask in GC first before making a major push
-Make a backup for the backup in case if things go haywire.
-
+Do pull requests pls. That's the reason why they exist.. /n
+Don't commit anything that might break stuff /n
+Ask in GC first before making a major push (minor commits are fine) /n
+Make a backup for the backup in case if things go haywire. /n
+/n
 "
 Beautiful is better than ugly.
 Explicit is better than implicit.
