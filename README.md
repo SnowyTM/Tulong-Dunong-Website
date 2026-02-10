@@ -1,5 +1,5 @@
 # Tulong-Dunong-Website
-Puyat is life
+Github repo for Kabacan Elementary. Primarily uses HTML, CSS, and JavaScript, with Typescript support.
 
 Do pull requests pls. That's the reason why they exist..
 
